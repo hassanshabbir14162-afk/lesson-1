@@ -10,7 +10,7 @@ function subtract(beginning,middle,end){
     console.log(beginning-middle-end)
 }
 
-subtract(263,365,0374)
+subtract(263,365,374)
 
 function divide(start,inbetween,finish){
     console.log(start/inbetween/finish)
